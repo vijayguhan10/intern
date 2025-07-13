@@ -64,10 +64,10 @@ const Header = () => {
           <div className="h-full">
             <Link to={"/"} className="h-full flex justify-center items-center">
               <div className="hidden lg:flex text-3xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500 animate-text-glow drop-shadow-lg">
-                Glownest
+                Best Care Formulation PVT LTD
               </div>
               <div className="lg:hidden text-xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500 animate-text-glow drop-shadow-lg">
-                Glownest
+                Best Care Formulation PVT LTD
               </div>
             </Link>
           </div>
